@@ -4,15 +4,15 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-04-29T01:47:46+09:00</updated>
+  <updated>2019-04-29T05:35:27+09:00</updated>
   <id>http://localhost:4000/</id>
 
   
-    <title type="html">Freelancer</title>
+    <title type="html">usualpn0221のポートフォリオサイト</title>
   
 
   
-    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+    <subtitle>33歳未経験からプログラミングの道に進んだ者のポートフォリオサイトです。プログラミングスクール出身です。web系の開発に注力しています。</subtitle>
   
 
   
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/web%20development/2014/07/18/project-1/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">Chat Space(rails app)</title>
+      <link href="http://localhost:4000/web%20development/2014/07/18/chat-space(Rails-app)/" rel="alternate" type="text/html" title="Chat Space(rails app)" />
       <published>2014-07-18T00:00:00+09:00</published>
       <updated>2014-07-18T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/18/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/18/project-1/"></content>
+      <id>http://localhost:4000/web%20development/2014/07/18/chat-space(Rails%20app)</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/18/chat-space(Rails-app)/"></content>
 
       
       
@@ -54,12 +54,12 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/web%20development/2014/07/17/project-2/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Mercari Copy(rails app)</title>
+      <link href="http://localhost:4000/web%20development/2014/07/17/Mercari-copy(Rails-app)/" rel="alternate" type="text/html" title="Mercari Copy(rails app)" />
       <published>2014-07-17T00:00:00+09:00</published>
       <updated>2014-07-17T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/17/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/17/project-2/"></content>
+      <id>http://localhost:4000/web%20development/2014/07/17/Mercari-copy(Rails%20app)</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/17/Mercari-copy(Rails-app)/"></content>
 
       
       
@@ -89,11 +89,23 @@
   
     <entry>
       <title type="html">Project 3</title>
-      <link href="http://localhost:4000/web%20development/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
+      <link href="http://localhost:4000/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
       <published>2014-07-16T00:00:00+09:00</published>
       <updated>2014-07-16T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/16/project-3/"></content>
+      <id>http://localhost:4000/2014/07/16/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/16/project-3/">&lt;!-- ---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+
+---
+ --&gt;</content>
 
       
       
@@ -108,13 +120,11 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">&amp;lt;!– — layout: default modal-id: 3 date: 2014-07-16 img: circus.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</summary>
       
 
       
@@ -123,11 +133,23 @@
   
     <entry>
       <title type="html">Project 4</title>
-      <link href="http://localhost:4000/web%20development/2014/07/15/project-4/" rel="alternate" type="text/html" title="Project 4" />
+      <link href="http://localhost:4000/2014/07/15/project-4/" rel="alternate" type="text/html" title="Project 4" />
       <published>2014-07-15T00:00:00+09:00</published>
       <updated>2014-07-15T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/15/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-4/"></content>
+      <id>http://localhost:4000/2014/07/15/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/15/project-4/">&lt;!-- ---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: game.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+
+---
+ --&gt;</content>
 
       
       
@@ -142,47 +164,11 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/web%20development/2014/07/15/project-6/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00+09:00</published>
-      <updated>2014-07-15T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/15/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-6/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
+        <summary type="html">&amp;lt;!– — layout: default modal-id: 4 date: 2014-07-15 img: game.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</summary>
       
 
       
@@ -191,11 +177,23 @@
   
     <entry>
       <title type="html">Project 5</title>
-      <link href="http://localhost:4000/web%20development/2014/07/14/project-5/" rel="alternate" type="text/html" title="Project 5" />
+      <link href="http://localhost:4000/2014/07/14/project-5/" rel="alternate" type="text/html" title="Project 5" />
       <published>2014-07-14T00:00:00+09:00</published>
       <updated>2014-07-14T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/14/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/14/project-5/"></content>
+      <id>http://localhost:4000/2014/07/14/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/14/project-5/">&lt;!-- ---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+
+---
+ --&gt;</content>
 
       
       
@@ -210,13 +208,55 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">&amp;lt;!– — layout: default modal-id: 5 date: 2014-07-14 img: safe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 6</title>
+      <link href="http://localhost:4000/2014/07/13/project-6/" rel="alternate" type="text/html" title="Project 6" />
+      <published>2014-07-13T00:00:00+09:00</published>
+      <updated>2014-07-13T00:00:00+09:00</updated>
+      <id>http://localhost:4000/2014/07/13/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/13/project-6/">&lt;!-- ---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+
+---
+ --&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">&amp;lt;!– — layout: default modal-id: 6 date: 2014-07-15 img: submarine.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</summary>
       
 
       
