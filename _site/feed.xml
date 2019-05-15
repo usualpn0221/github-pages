@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-04-29T07:16:40+09:00</updated>
+  <updated>2019-05-16T01:35:03+09:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -88,24 +88,12 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">Train cost checker</title>
+      <link href="http://localhost:4000/web%20development/2014/07/16/Train-Cost-Checker/" rel="alternate" type="text/html" title="Train cost checker" />
       <published>2014-07-16T00:00:00+09:00</published>
       <updated>2014-07-16T00:00:00+09:00</updated>
-      <id>http://localhost:4000/2014/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/2014/07/16/project-3/">&lt;!-- ---
-layout: default
-modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
----
- --&gt;</content>
+      <id>http://localhost:4000/web%20development/2014/07/16/Train%20Cost%20Checker</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/16/Train-Cost-Checker/"></content>
 
       
       
@@ -120,11 +108,13 @@ description: Use this area of the page to describe your project. The icon above 
       </author>
 
       
-
+        <category term="Web Development" />
       
 
       
-        <summary type="html">&amp;lt;!– — layout: default modal-id: 3 date: 2014-07-16 img: circus.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</summary>
+
+      
+        <summary type="html"></summary>
       
 
       
